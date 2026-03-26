@@ -1,1 +1,2 @@
 <!-- Write explantation below of tag choice below for an attempt at a level 4  -->
+<!--I used .p3 for the list section because as stated in the css file, all elemnts in list section were using the class p3 and in the image, they all had the same styles so using p3 selector will affect all elements using the p3 class the same way, which is exactly what i need.>

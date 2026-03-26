@@ -2,3 +2,38 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: grey;
+}
+
+h1 {
+    background-color: pink;
+    color: white;
+}
+
+.p1 {
+    color: yellow;
+}
+
+.p2 {
+    color: lightgreen;
+}
+
+/*used class selector because all elements in list section were under one class, which was the class below:*/
+.p3 {
+    color: lightblue;
+}
+
+.border1 {
+    border: 5px solid orange;
+    background-color: white;
+    height: 100px;
+}
+
+footer {
+    color: white;
+}
+
+#single {
+    color: white;
+}
